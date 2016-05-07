@@ -1,0 +1,20 @@
+{
+  "name": "mlab",
+  "version": "1.0.0",
+  "description": "node program connecting a mongoDB on mongolab cloud",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "keywords": [
+    "node",
+    "mongo",
+    "mongolab",
+    "cloud"
+  ],
+  "author": "Akhil",
+  "license": "MIT",
+  "dependencies": {
+    "mongodb": "latest",
+  }
+}
