@@ -15,6 +15,6 @@
   "author": "Akhil",
   "license": "MIT",
   "dependencies": {
-    "mongodb": "latest",
+    "mongodb": "latest"
   }
 }
